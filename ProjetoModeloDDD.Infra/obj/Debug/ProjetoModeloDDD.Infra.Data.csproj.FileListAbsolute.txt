@@ -1,0 +1,14 @@
+C:\Users\igor.vallim\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.Infra\bin\Debug\ProjetoModeloDDD.Infra.dll.config
+C:\Users\igor.vallim\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.Infra\bin\Debug\ProjetoModeloDDD.Infra.dll
+C:\Users\igor.vallim\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.Infra\bin\Debug\ProjetoModeloDDD.Infra.pdb
+C:\Users\igor.vallim\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.Infra\bin\Debug\EntityFramework.dll
+C:\Users\igor.vallim\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.Infra\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\igor.vallim\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.Infra\bin\Debug\ProjetoModeloDDD.Domain.dll
+C:\Users\igor.vallim\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.Infra\bin\Debug\ProjetoModeloDDD.Domain.pdb
+C:\Users\igor.vallim\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.Infra\bin\Debug\EntityFramework.xml
+C:\Users\igor.vallim\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.Infra\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\igor.vallim\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.Infra\obj\Debug\ProjetoModeloDDD.Infra.Data.csprojAssemblyReference.cache
+C:\Users\igor.vallim\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.Infra\obj\Debug\ProjetoModeloDDD.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\igor.vallim\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.Infra\obj\Debug\ProjetoModeloDDD.Infra.Data.csproj.CopyComplete
+C:\Users\igor.vallim\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.Infra\obj\Debug\ProjetoModeloDDD.Infra.dll
+C:\Users\igor.vallim\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.Infra\obj\Debug\ProjetoModeloDDD.Infra.pdb
